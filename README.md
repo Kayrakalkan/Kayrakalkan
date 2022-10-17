@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kayra-kalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayra-kalkan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kayrakalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayrakalkan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15112492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15112492" height="30" width="40" /></a>
 <a href="https://instagram.com/kayraa_kalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayraa_kalkan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kalkankayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kalkankayra" height="30" width="40" /></a>
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayrakalkan&show_icons=true&locale=en" alt="kayrakalkan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayrakalkan&" alt="kayrakalkan" /></p>
+
