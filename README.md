@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Artificial Intelligence**
 
-- 💬 Ask me about **Python SwiftUI Flutter Game Development**
+- 💬 Ask me about **Python SwiftUI**
 
 - 📫 How to reach me **kalkankayra@gmail.com**
 
